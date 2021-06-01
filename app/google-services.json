@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97745833956",
+    "project_id": "finsta-cb5ee",
+    "storage_bucket": "finsta-cb5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97745833956:android:3da17e724f61aaf1cbc1f1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97745833956-l88nscbu1hvmtqhcu0b5915hj91nh4pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpd35gaxk47VZ2bMasRw-4ans3T2Qu-nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97745833956-l88nscbu1hvmtqhcu0b5915hj91nh4pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
